@@ -1,0 +1,18 @@
+make a tower
+- make tower into floors
+-- make floors into rooms
+--- randomly generate room interiors using dificulty parameters
+---- make items/monsters/NPCs to be scattered in room
+
+make a player
+- give player equipment based on chosen class
+
+make system to take player actions
+- take input
+-- decide what input means
+--- call appropriate function
+-|bonus points for rebindable keys|
+
+make an item generating system based off level
+- types of items
+-- larger pool of points for different weapon aspects based on level
